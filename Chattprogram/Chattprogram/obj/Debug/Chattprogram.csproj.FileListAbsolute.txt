@@ -1,9 +1,0 @@
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\bin\Debug\Chattprogram.exe.config
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\bin\Debug\Chattprogram.exe
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\bin\Debug\Chattprogram.pdb
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.csprojResolveAssemblyReference.cache
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.ChatClient.resources
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.Properties.Resources.resources
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.csproj.GenerateResource.Cache
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.exe
-C:\Users\idnert\Documents\Visual Studio 2013\Projects\Chattprogram\Chattprogram\obj\Debug\Chattprogram.pdb
