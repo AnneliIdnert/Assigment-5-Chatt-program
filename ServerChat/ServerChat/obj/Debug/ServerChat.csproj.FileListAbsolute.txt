@@ -1,0 +1,12 @@
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.exe.config
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.Form1.resources
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.Properties.Resources.resources
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.csproj.GenerateResource.Cache
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.exe
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\bin\Debug\ServerChat.pdb
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.pdb
+C:\Users\idnert\Documents\Visual Studio 2013\Projects\ServerChat\ServerChat\obj\Debug\ServerChat.csprojResolveAssemblyReference.cache
+E:\Dropbox\Programmering\Chat-program ass 5\ServerChat\ServerChat\bin\Debug\ServerChat.exe.config
+E:\Dropbox\Programmering\Chat-program ass 5\ServerChat\ServerChat\obj\Debug\ServerChat.exe
+E:\Dropbox\Programmering\Chat-program ass 5\ServerChat\ServerChat\obj\Debug\ServerChat.pdb
